@@ -1,3 +1,5 @@
+![](https://github.com/erogluyusuf/dogpack/blob/main/dogpack.png)
+
 # Dogpack.py - Bilgi Toplama ve Güvenlik Analiz Aracı
 
 Dogpack.py, web sitelerindeki çeşitli güvenlik açıklarını taramak ve bilgi toplamak için kullanılan bir Python tabanlı araçtır. Web sitelerinin durumunu kontrol etmek, IP adresi, DNS kayıtları, SSL sertifikaları, portlar ve daha fazlasını analiz etmek için kullanılabilir.
